@@ -1,2 +1,2 @@
-# Sudoku_Backtracking
- Backtracking algorithm in haskell
+# Sudoku Backtracking in Haskell
+    
